@@ -93,7 +93,7 @@ CREATE TABLE `users` (
 --
 
 INSERT INTO `users` (`id`, `username`, `password`) VALUES
-(1, 'anggrndewi', '12345678');
+(1, 'sarlini027', '190218');
 
 --
 -- Indexes for dumped tables
