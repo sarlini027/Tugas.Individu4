@@ -18,7 +18,7 @@
 
 - clone repo ini (https://github.com/anggrndewi/TugasIndividu4.git)
 - install module berikut
-- pip install pyramid_jinja2
+- pip install pyramid
 - pip install pyramid_jwt
 - pip install jwt
 - pip install pymysql
